@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("修改2");
         System.out.println("修改3");
         System.out.println("666添加");
+        System.out.println("xky666添加");
     }
 }

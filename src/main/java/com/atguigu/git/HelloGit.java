@@ -1,0 +1,14 @@
+package com.atguigu.git;
+
+/**
+ * @author xukangyuan
+ * @version 1.0x
+ * @ProjectName: git_xky888
+ * @ClassName: HelloGit
+ * @date 2022/8/7 15:12
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("新建");
+    }
+}
